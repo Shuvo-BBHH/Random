@@ -1,6 +1,6 @@
 # Random
 
-# PROGRAMMED BY HAMII
+# PROGRAMMED BY MAHDI
 
  # version 0.4
 
