@@ -19,7 +19,7 @@
 
 - `pip install rich`
 - `rm -rf Random`
-- `git clone https://github.com/Shuvo-BBHH/Random
+- git clone https://github.com/Shuvo-BBHH/Random
 - `cd Random`
 - `python Mahdi.py`
 
