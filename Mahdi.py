@@ -1,2 +1,2 @@
-from MAHDI import main
-main() 
+import base64
+exec(base64.b16decode("66726F6D2048414D494920696D706F7274206D61696E0A6D61696E282920"))
