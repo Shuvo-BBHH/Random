@@ -1,4 +1,4 @@
-# Random
+E# Random
 
 # PROGRAMMED BY MAHDI
 
@@ -35,4 +35,4 @@
 
  
 
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-HAMII-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01616406924)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHDI-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01616406924)
